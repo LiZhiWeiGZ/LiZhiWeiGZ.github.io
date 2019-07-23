@@ -1,9 +1,9 @@
 # Site settings
-title: 那些
+title: 一个灵魂的独白
 SEOTitle: 那些
 header-img: img/post-bg-desk.jpg
 email: wezlee94@gmail.com
-description: "Every failure is leading towards success."
+description: "一个灵魂的独白."
 keyword: "那些, Lua, Python, Game"
 url: "http://LiZhiWeiGZ.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
